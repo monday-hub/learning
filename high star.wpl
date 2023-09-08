@@ -1,0 +1,21 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.18362.1"/>
+        <meta name="ItemCount" content="3"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>high star</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\..\Music\01 High STAR.mp3" tid="{6AC1661D-78B6-4934-80A4-3029F355076B}"/>
+            <media src="..\..\..\..\Music\Ruger_-_Asiwaju_Video_.mp3" tid="{5E6C9E9D-E4F1-46C8-A829-66497D9C4F90}"/>
+            <media src="..\..\..\..\Music\Zinoleesky_Ft_Ayra_Starr_-_Many_Roads.mp3" tid="{2702BCF7-BAEA-4C0D-8D63-9AF435603E39}"/>
+        </seq>
+    </body>
+</smil>
